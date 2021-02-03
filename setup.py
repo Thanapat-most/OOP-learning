@@ -11,15 +11,15 @@ DESCRIPTION = '\n\n'.join(LOAD_TEXT(_) for _ in [
 
 setup(
   name = 'mostoop',      
-  packages = ['unclechat'], 
-  version = '0.0.1',  
+  packages = ['mostoop'], 
+  version = '0.0.3',  
   license='MIT', 
   description = 'OOP Learning by Most',
   long_description=DESCRIPTION,
   author = 'Thanapat-most',                 
   author_email = 'thanapat.most2543@gmail.com',     
-  url = 'https://github.com/UncleEngineer/UncleChat',  
-  download_url = 'https://github.com/UncleEngineer/UncleChat/archive/0.0.1.zip',  
+  url = 'https://github.com/Thanapat-most/OOP-learning',  
+  download_url = 'https://github.com/Thanapat-most/OOP-learning/archive/v0.0.3.zip',  
   keywords = ['OOP', 'most', 'learning'],   
   classifiers=[
     'Development Status :: 3 - Alpha',     
